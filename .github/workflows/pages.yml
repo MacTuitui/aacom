@@ -32,7 +32,7 @@ jobs:
         uses: getzola/github-pages@066755243e69f508fd1a74739fbf1a65f656c790
         with:
           zola_version: v0.23.6
-          build_flags: --base-url https://mactuitui.github.io/aacom/
+          build_flags: --base-url https://alexisandre.com
 
       - name: Publish site
         id: deployment
