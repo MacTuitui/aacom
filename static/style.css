@@ -47,10 +47,6 @@ h1 {
   line-height: 1.15;
 }
 
-p {
-  max-width: 65ch;
-}
-
 img {
   display: block;
   max-width: 100%;
@@ -59,3 +55,41 @@ img {
 figure {
   margin: 2rem 0;
 }
+
+article {
+  width: 100%;
+  max-width: 40rem;
+  margin-inline: auto;
+}
+
+article img,
+article video {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+article iframe {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  border: 0;
+}
+
+.image-row {
+  display: grid;
+  gap: 1rem;
+  margin-block: 2rem;
+}
+
+.image-row figure {
+  margin: 0;
+}
+
+@media (min-width: 43rem) {
+  .image-row {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+

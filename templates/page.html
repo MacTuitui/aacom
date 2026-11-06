@@ -5,6 +5,19 @@
 {% block content %}
   <article>
     <h1>{{ page.title }}</h1>
+    {% if page.extra.year %}
+  <p>
+    {{ page.extra.year }}
+{% if page.extra.medium %}
+  ·
+  {% if page.extra.medium is array %}
+    {{ page.extra.medium | join(sep=", ") }}
+  {% else %}
+    {{ page.extra.medium }}
+  {% endif %}
+{% endif %}
+  </p>
+{% endif %}
     {{ page.content | safe }}
   </article>
 {% endblock content %}

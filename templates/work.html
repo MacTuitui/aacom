@@ -6,11 +6,32 @@
   <h1>{{ section.title }}</h1>
   {{ section.content | safe }}
 
-  <ul>
-    {% for project in section.pages %}
-      <li>
-        <a href="{{ project.permalink }}">{{ project.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
+  {% for subsection_path in section.subsections %}
+    {% set category = get_section(path=subsection_path) %}
+
+    <section>
+      <h2>{{ category.title }}</h2>
+
+      {% if category.pages %}
+        <ul>
+          {% for project in category.pages %}
+            <li>
+              <a href="{{ project.permalink }}">{{ project.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </section>
+  {% endfor %}
+
+  {% if section.pages %}
+    <ul>
+      {% for project in section.pages %}
+        <li>
+          <a href="{{ project.permalink }}">{{ project.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
 {% endblock content %}
+

@@ -8,4 +8,4 @@ His practice began with VJing in the early 2000s, moved through interactive inst
 
 ## Contact
 
-For enquiries: find Hugo Pouchard.
+For enquiries: [Hugo Pouchard hugopouchard@gmail.com](mailto:hugopouchard@gmail.com).
