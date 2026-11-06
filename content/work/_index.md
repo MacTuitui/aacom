@@ -1,5 +1,5 @@
 +++
-title = "Selected work"
+title = "Works"
 template = "work.html"
 sort_by = "weight"
 +++

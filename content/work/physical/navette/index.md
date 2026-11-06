@@ -37,5 +37,9 @@ The tapestries measure 170 cm x 250 cm, and are made of seven to ten different c
     caption="Two tapestries shown at Milan Design Week"
 /> }}
 
+
+<iframe src="https://www.youtube.com/embed/XQJw3vCOkeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 A collaboration between TRAME, CPG and Néolice.
 

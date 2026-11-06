@@ -4,6 +4,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400..600;1,6..72,400..600&amp;family=Space+Grotesk:wght@400..600&amp;display=swap">
   <link rel="stylesheet" href="{{ get_url(path='style.css') }}">
 </head>
 <body>
@@ -11,7 +14,7 @@
   <a href="{{ get_url(path='/') }}">{{ config.title }}</a>
 
   <nav aria-label="Main">
-    <a href="{{ get_url(path='@/work/_index.md') }}">Work</a>
+    <a href="{{ get_url(path='@/work/_index.md') }}">Works</a>
     <a href="{{ get_url(path='@/bio.md') }}">Bio</a>
   </nav>
 </header>

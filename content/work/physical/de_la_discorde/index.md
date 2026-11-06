@@ -77,3 +77,13 @@ The collection consists of five different pieces, all results of the same genera
     caption="De la Discorde #4, 2025."
 /> }}
 </div>
+<div class="image-row">
+{{ <art_image
+  file="DeLaDiscorde5.png"
+  alt="Clear-panel variation with broad diagonal openings."
+  sizes="(min-width: 43rem) 19.5rem, calc(100vw - 3rem)"
+    caption="De la Discorde #5, 2025."
+/> }}
+</div>
+
+De la Discorde, Acrylic and Steel, 30 cm x 30 cm x 30 cm, 2025.
