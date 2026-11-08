@@ -8,5 +8,6 @@ weight = 1
 #### Other
 
 - Redbull Canvas Cooler, Tokyo, 2012
+- Toy platform [toio](https://toio.io), Tokyo, 2013
 - Face à l'infini, tile installation, Tokyo, 2020
 - CSL Corporate wall, tile installation, Tokyo, 2020

@@ -16,7 +16,7 @@
         <ul>
           {% for project in category.pages %}
             <li>
-              <a href="{{ project.permalink }}">{{ project.title }}</a>
+              <a href="{{ project.permalink }}">{{ project.title }}{% if project.extra.year %}, {{ project.extra.year }}{% endif %}</a>
             </li>
           {% endfor %}
         </ul>

@@ -1,6 +1,6 @@
 +++
 title = "Slices"
-weight = 3
+weight = 2
 
 [extra]
 medium = ["Physical", "Digital"]

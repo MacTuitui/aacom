@@ -1,6 +1,6 @@
 +++
 title = "EoN - Jean-Michel Jarre"
-weight = 2
+weight = 3
 
 [extra]
 medium = ["Physical", "Digital"]
