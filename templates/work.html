@@ -8,7 +8,6 @@
   <ul class="work-list">
     {% for project in section.pages | sort(attribute="extra.year") | reverse %}
       <li>
-        {{ project.extra.year }} ·
         <a href="{{ project.permalink }}">{{ project.title }}</a>
         {% if project.extra.medium %}
           <small>·
@@ -26,6 +25,7 @@
             {% endif %}
           </small>
         {% endif %}
+        · {{ project.extra.year }}
       </li>
     {% endfor %}
   </ul>
