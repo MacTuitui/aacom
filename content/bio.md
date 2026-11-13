@@ -8,6 +8,23 @@ His practice began with VJing in the early 2000s, moved through interactive inst
 
 His work on the toy platform [toio](https://toio.io) has earned him various design accolades, including the iF Gold Award (2019), and the Red Dot Award (2020). 
 
+
+## Exhibitions (selected)
+
+- DeLaurentis Immersive, Paris (2026)
+- CODE+MATTER, Paris (2025)
+- Frames, Civic Canvas Gallery, Shibuya, Tokyo (2025)
+- POEMS IN CODE, CCBT x Yebisu Film Festival (2024)
+- Bright Moments, Venice (2024)
+- Parallel Universes: from Future Frequencies to Gucci Cosmos (2023)
+- 720 Minutes Clock, Sony Vision Shibuya (2022)
+- L'appel, Bright Moments - Tokyo (2022)
+- Slices, Solo show at Neort++, Tokyo (2022)
+- Sony Park展, Tokyo (2021)
+- Gotenyama Art & Technology Week, Tokyo (2018)
+- Gotenyama Art & Technology Week, Tokyo (2017)
+
+
 ## Contact
 
 For enquiries: [Hugo Pouchard hugopouchard@gmail.com](mailto:hugopouchard@gmail.com).
