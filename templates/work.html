@@ -4,35 +4,31 @@
 
 {% block content %}
   <h1>{{ section.title }}</h1>
+
+  <ul class="work-list">
+    {% for project in section.pages | sort(attribute="extra.year") | reverse %}
+      <li>
+        {{ project.extra.year }} ·
+        <a href="{{ project.permalink }}">{{ project.title }}</a>
+        {% if project.extra.medium %}
+          <small>·
+            {% if project.extra.medium is array %}
+              {{ project.extra.medium | join(sep=", ") }}
+            {% else %}
+              {{ project.extra.medium }}
+            {% endif %}
+            -
+
+            {% if project.extra.tags is array %}
+              {{ project.extra.tags | join(sep=", ") }}
+            {% else %}
+              {{ project.extra.tags }}
+            {% endif %}
+          </small>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+
   {{ section.content | safe }}
-
-  {% for subsection_path in section.subsections %}
-    {% set category = get_section(path=subsection_path) %}
-
-    <section>
-      <h2>{{ category.title }}</h2>
-
-      {% if category.pages %}
-        <ul>
-          {% for project in category.pages %}
-            <li>
-              <a href="{{ project.permalink }}">{{ project.title }}{% if project.extra.year %}, {{ project.extra.year }}{% endif %}</a>
-            </li>
-          {% endfor %}
-        </ul>
-      {% endif %}
-       {{ category.content | safe }}
-    </section>
-  {% endfor %}
-
-  {% if section.pages %}
-    <ul>
-      {% for project in section.pages %}
-        <li>
-          <a href="{{ project.permalink }}">{{ project.title }}</a>
-        </li>
-      {% endfor %}
-    </ul>
-  {% endif %}
 {% endblock content %}
-

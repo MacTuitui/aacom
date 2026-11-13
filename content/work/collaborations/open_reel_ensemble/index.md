@@ -4,6 +4,6 @@ weight = 1
 
 [extra]
 medium = ["Physical", "Digital"]
-tags = ["fashion","color", "collection"]
+tags = ["Hardware","VJ"]
 year = 2014
 +++
