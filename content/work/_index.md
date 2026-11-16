@@ -32,6 +32,8 @@ sort_by = "none"
 - Omoiiro™ Flow, interactive installation, Tokyo · 2017
 - Gotenyama Art & Technology Week, logo and design direction, Tokyo · 2017
 - Lixil [Omoiiro™ Tiles](https://www.biz-lixil.com/column/manufacturing/title022/), Ceramic tiles · 2016
+- "Flying Bodies", technological support, Tokyo ・ 2013
+- Collaboration with Open Reel Ensemble, technological support, Tokyo ・ 2013
 - Toy platform [toio](https://toio.io), Tokyo · 2013
 - Redbull Canvas Cooler, Tokyo · 2012
 - Tokyo Dex This & That shows, Tokyo · 2011-2015

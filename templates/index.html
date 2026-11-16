@@ -1,6 +1,58 @@
 {% extends "base.html" %}
 
 {% block content %}
+  <figure class="home-clock">
+    <div class="clock-frame">
+      <canvas
+        id="clock-720"
+        role="img"
+        aria-label="720 Minutes, a live generative clock"
+      ></canvas>
+    </div>
+    <figcaption>
+      <a href="{{ get_url(path='@/work/digital/720-minutes/index.md') }}">
+        720 Minutes
+      </a>, 2021 — live generative clock — All minted iterations, one per minute.
+    </figcaption>
+  </figure>
   <h1>{{ section.title }}</h1>
-  {{ section.content | safe }} 
+  {{ section.content | safe }}
+  <div class="home-projects">
+  {% for feature in section.extra.featured %}
+    {% set project = get_page(path=feature.page) %}
+    {% set source = "content/" ~ project.colocated_path ~ feature.image %}
+    {% set small = resize_image(
+      path=source, width=800,
+      op="fit_width", format="webp", quality=85
+    ) %}
+    {% set large = resize_image(
+      path=source, width=1600,
+      op="fit_width", format="webp", quality=85
+    ) %}
+
+    <figure>
+      <a href="{{ project.permalink }}">
+        <img
+          src="{{ large.url }}"
+          srcset="{{ small.url }} 800w, {{ large.url }} 1600w"
+          sizes="(min-width: 43rem) 33rem, calc(100vw - 3rem)"
+          width="{{ large.width }}"
+          height="{{ large.height }}"
+          alt="{{ feature.alt }}"
+          loading="lazy"
+          decoding="async"
+        >
+      </a>
+      <figcaption>
+        <a href="{{ project.permalink }}">{{ project.title }}</a>,
+        {{ project.extra.year }}
+      </figcaption>
+    </figure>
+  {% endfor %}
+</div>
+
+
+
+  <script defer src="{{ get_url(path='720/allhashes.js') }}"></script>
+  <script defer src="{{ get_url(path='720/main.js') }}"></script>
 {% endblock content %}
