@@ -6,15 +6,16 @@ sort_by = "none"
 
 ## Other works
 
-- Delaurentis - Pionnières! · 2026
+- DeLaurentis - Immersive, Interactive Installation, Paris · 2026 
+- Delaurentis - Pionnières!, Scenography, Concept, Interactive Visuals, Bourges · 2026
 - Tomonami for Kuma Kengo Architects and Associates · 2025 
-- Delaurentis - SinVocea · 2024
-- Tomonami for Ken Yotsui, Yuzen · 2023
-- Sony's Motion Logo, Tokyo · 2022
-- Living Decor, Tokyo · 2022
+- Delaurentis - SinVocea, Interactive Visuals, Paris · 2024
+- Tomonami for Ken Yotsui, Yuzen, Kanazawa · 2023
+- Sony's Motion Logo, Color extraction, Tokyo · 2022
+- Living Decor, Generative Application, Tokyo · 2022
 - Hosoo, generative silk fabric, Kyoto · 2022
 - Frontline, digital generative art collection, decentralized · 2024
-- Bright Moments Finale, Venice · 2023
+- Bright Moments Finale, digital generative art collection, Venice · 2023
 - L'appel, digital generative art collection, decentralized · 2023
 - Décorés, digital generative art collection, decentralized · 2023
 - Friendship Bracelets, digital generative art collection, with Erick Calderon, Marfa · 2022

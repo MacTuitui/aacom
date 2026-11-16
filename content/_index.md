@@ -26,5 +26,4 @@ Artworks that explore time, variation and experience, from live digital clocks t
 My practice brings together code, materials, and collaborations with musicians, designers, and craftspeople.
 
 
-
 [Selected work](@/work/_index.md)
