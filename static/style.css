@@ -142,3 +142,20 @@ article blockquote > :first-child {
 article blockquote > :last-child {
   margin-bottom: 0;
 }
+.image-mosaic {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.5rem;
+  margin-block: 2rem;
+}
+
+.image-mosaic figure {
+  margin: 0;
+  min-width: 0;
+}
+
+@media (min-width: 43rem) {
+  .image-mosaic {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}

@@ -3,8 +3,8 @@ title = "Tomonami™ - Yoshita Yukio"
 weight = 3
 
 [extra]
-medium = ["Physical", "Digital"]
-tags = ["ceramics","creative support"]
+medium = ["Digital"]
+tags = ["Ceramics","Creative Support"]
 year = 2023
 +++
 

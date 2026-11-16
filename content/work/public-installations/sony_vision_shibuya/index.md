@@ -1,9 +1,15 @@
 +++
-title = "Omoiiro Clock - Sony Vision Shibuya"
+title = "720 Minutes Clock - Sony Vision Shibuya"
 weight = 3
 
 [extra]
 medium = ["Screen"]
-tags = ["time","clock", "public"]
-year = 2016
+tags = ["Time","Clock", "Public", "Interactive", "Sensing"]
+year = 2022
 +++
+
+Real-time generative clock that ran at one of Tokyo Shibuya's major screens, using LiDAR to follow the movement of vehicles and pedestrians. André also composed the music.
+
+<video autoplay muted loop playsinline preload="metadata">
+  <source src="720m.mp4" type="video/mp4">
+</video>

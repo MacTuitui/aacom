@@ -4,7 +4,7 @@ weight = 2
 
 [extra]
 medium = ["Physical", "Digital"]
-tags = ["time","space", "scroll"]
+tags = ["Time","Space", "Scroll", "Collection", "Animated"]
 year = 2022
 +++
 

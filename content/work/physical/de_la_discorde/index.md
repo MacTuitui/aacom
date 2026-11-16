@@ -4,7 +4,7 @@ weight = 1
 
 [extra]
 medium = "Physical"
-tags = ["time", "sculpture"]
+tags = ["Time", "Sculpture"]
 year = 2025
 +++
 

@@ -3,8 +3,8 @@ title = "Birth"
 weight = 3
 
 [extra]
-medium = ["Digital"]
-tags = ["fashion"]
+medium = ["Screen"]
+tags = ["Fashion", "Video"]
 year = 2024
 +++
 

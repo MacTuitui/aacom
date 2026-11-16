@@ -1,7 +1,7 @@
 +++
 title = "Selected Works"
 template = "work.html"
-sort_by = "weight"
+sort_by = "none"
 +++
 
 ## Other works
@@ -14,11 +14,11 @@ sort_by = "weight"
 - Living Decor, Tokyo · 2022
 - Hosoo, generative silk fabric, Kyoto · 2022
 - Frontline, digital generative art collection, decentralized · 2024
-- Bright Moments Finale, Venezia · 2023
+- Bright Moments Finale, Venice · 2023
 - L'appel, digital generative art collection, decentralized · 2023
 - Décorés, digital generative art collection, decentralized · 2023
 - Friendship Bracelets, digital generative art collection, with Erick Calderon, Marfa · 2022
-- Reproducible Chaos, interactive installation, Tokyo · 2022
+- Reproducible Chaos, interactive installation, with Takuya Nishijima, Tokyo · 2022
 - fxhash SpeedRun: any% < 960 minutes, digital generative art collection, decentralized, 2022
 - Departed, digital generative art collection, decentralized · 2022
 - 24 Heures, digital generative art collection, decentralized · 2021
@@ -27,11 +27,11 @@ sort_by = "weight"
 - Void, digital generative art collection, decentralized · 2021
 - Face à l'infini, tile installation, Tokyo · 2020
 - Daruma-san ga hashitta, interactive installation, Tokyo · 2019
-- Omoiiro Mirror - Sakura, interactive installation, Tokyo · 2018
-- Omoiiro Mirror, interactive installation, Tokyo · 2017
-- Omoiiro Flow, interactive installation, Tokyo · 2017
-- Gotenyama Art & Technology Week, Main design, Tokyo · 2017
-- Lixil Omoiiro Tiles, Ceramic tiles · 2016
+- Omoiiro™ Mirror - Sakura, interactive installation, Tokyo · 2018
+- Omoiiro™ Mirror, interactive installation, Tokyo · 2017
+- Omoiiro™ Flow, interactive installation, Tokyo · 2017
+- Gotenyama Art & Technology Week, logo and design direction, Tokyo · 2017
+- Lixil [Omoiiro™ Tiles](https://www.biz-lixil.com/column/manufacturing/title022/), Ceramic tiles · 2016
 - Toy platform [toio](https://toio.io), Tokyo · 2013
 - Redbull Canvas Cooler, Tokyo · 2012
 - Tokyo Dex This & That shows, Tokyo · 2011-2015

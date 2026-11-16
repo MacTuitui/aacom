@@ -4,7 +4,7 @@ weight = 2
 
 [extra]
 medium = "Physical"
-tags = ["tapestry"]
+tags = ["Tapestry", "Collection"]
 year = 2023
 +++
 

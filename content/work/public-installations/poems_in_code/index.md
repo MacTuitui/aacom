@@ -4,7 +4,7 @@ weight = 1
 
 [extra]
 medium = ["Screen"]
-tags = ["public","animated", "time"]
+tags = ["Public", "Time","Video"]
 year = 2024
 +++
 

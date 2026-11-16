@@ -3,8 +3,8 @@ title = "720 Minutes"
 weight = 1
 
 [extra]
-medium = "Digital"
-tags = ["time"]
+medium = ["Digital"]
+tags = ["Time", "Collection", "Interactive"]
 year = 2021
 +++
 
@@ -62,7 +62,7 @@ The collection was released on [ArtBlocks](https://artblocks.io/), the first pla
 
 The whole collection of 720 Minutes was released on March 5, 2021 and sold out in less than six minutes. 720 Minutes iterations are to this day traded on OpenSea, a secondary market for NFTs. (Volume for secondary sales until September 3rd, has already reached over 6 million USD.)
 
-One iteration of 720 Minutes was recently sold at Sotheby's as part of [this lot](https://www.sothebys.com/en/buy/auction/2021/natively-digital-a-curated-nft-sale-2/19-works). Another lot containing an iteration of 720 Minutes will be on sale at Christie's in October 2021.
+One iteration of 720 Minutes was sold at Sotheby's as part of [this lot](https://www.sothebys.com/en/buy/auction/2021/natively-digital-a-curated-nft-sale-2/19-works). Another lot containing an iteration of 720 Minutes was on sale at Christie's in October 2021.
 
 The code for the piece can be found directly in the Ethereum blockchain. The data is stored as a string, and can be accessed by querying the ArtBlocks smart contract [here](https://etherscan.io/address/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270#readContract): in the _projectScriptByIndex_ field, add _27_ as the __projectId_ and _0_ or _1_ as the __index_, then click on 'Query'.
 
