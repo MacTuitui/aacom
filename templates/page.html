@@ -15,7 +15,15 @@
   {% else %}
     {{ page.extra.medium }}
   {% endif %}
-{% endif %}
+  {% if page.extra.tags %}
+    - 
+    {% if page.extra.tags is array %}
+      {{ page.extra.tags | join(sep=", ") }}
+    {% else %}
+      {{ page.extra.tags }}
+    {% endif %}
+  {% endif %}
+  {% endif %}
   </p>
 {% endif %}
     {{ page.content | safe }}
