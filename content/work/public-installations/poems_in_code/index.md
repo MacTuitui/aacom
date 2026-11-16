@@ -16,7 +16,7 @@ year = 2024
 /> }}
 
 
-A 14:30 long piece reflecting over the passage of time, for Poems in Code: Generative Art Today and Programming-Generated Moving Image, shown at the Center Square of Ebisua Garden Place.
+A 14:30 long piece reflecting over the passage of time, for Poems in Code: Generative Art Today and Programming-Generated Moving Image, shown at the Center Square of Ebisu Garden Place.
 
 <iframe src="https://www.youtube.com/embed/n3FmULTxMg0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

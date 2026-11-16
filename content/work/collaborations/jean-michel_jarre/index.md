@@ -24,7 +24,7 @@ A collaboration with the legend Jean-Michel Jarre to create visuals for the appl
 </div>
 
 
-A special physical edition "Snapshots from EoN" was also released, with sampled generated snapshots, accompagned by two printed vynil using outputs of the generative system André wrote, and an illustrated book showcasing the variety in the outputs.
+A special physical edition "Snapshots from EoN" was also released, with sampled generated snapshots, accompanied by two printed vinyl using outputs of the generative system André wrote, and an illustrated book showcasing the variety in the outputs.
 
 {{<art_image
     file="snapshots.jpg"

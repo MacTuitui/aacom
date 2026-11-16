@@ -58,17 +58,13 @@ But each 720 Minutes is linked to _one_ minute across the whole twelve hours per
 
 720 Minutes was released as a series of Non-Fungible Tokens (NFTs) on the Ethereum blockchain (ERC721 standard). Each token represents an unique iteration of the algorithm and contains the unique hash that was created when the NFT was minted. From this hash the algorithm generates a set of visual features, making every token unique.
 
-The collection was released on [ArtBlocks](https://artblocks.io/), the first platform to provide generative pieces as Non-Fungible Tokens (NFT) where all [data](https://api.artblocks.io/project/27) (code and metadata) needed to recreate the piece is stored on the Ethereum blockchain (and not as metadata only like most NFTs).
+The collection was released on [ArtBlocks](https://artblocks.io/), the first platform to provide generative pieces as Non-Fungible Tokens (NFT) where all data (code and metadata) needed to recreate the piece is stored on the Ethereum blockchain.
 
-The whole collection of 720 Minutes was released on March 5, 2021 and sold out in less than six minutes. 720 Minutes iterations are to this day traded on OpenSea, a secondary market for NFTs. (Volume for secondary sales until September 3rd, has already reached over 6 million USD.)
+The whole [collection](https://www.artblocks.io/collection/720-minutes-by-alexis-andre) of 720 Minutes was released on March 5, 2021 and sold out in less than six minutes. 720 Minutes iterations are to this day traded on OpenSea, a secondary market for NFTs. (Volume for secondary sales until September 3rd, has already reached over 6 million USD.)
 
 One iteration of 720 Minutes was sold at Sotheby's as part of [this lot](https://www.sothebys.com/en/buy/auction/2021/natively-digital-a-curated-nft-sale-2/19-works). Another lot containing an iteration of 720 Minutes was on sale at Christie's in October 2021.
 
 The code for the piece can be found directly in the Ethereum blockchain. The data is stored as a string, and can be accessed by querying the ArtBlocks smart contract [here](https://etherscan.io/address/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270#readContract): in the _projectScriptByIndex_ field, add _27_ as the __projectId_ and _0_ or _1_ as the __index_, then click on 'Query'.
-
-The same information can be extracted directly using ArtBlocks API [here](https://api.artblocks.io/project/27).
-
-[Collection on ArtBlocks](https://artblocks.io/project/27/gallery)
 
 
 ## 720 Minutes Extension

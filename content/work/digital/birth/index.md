@@ -19,6 +19,6 @@ Could you briefly describe the creation process?
 What does this final artwork represent?
 >This piece is reflecting on how a single idea can develop into a deep, complex structure that is connected to everything. How this specific moment feels. How it feels obvious a posteriori that this was "it" - but how did it feel at the start? The *birth* of any revolution.
 
-<video autoplay muted loop playsinline preload="metadata" poster="birth-poster.jpg">
+<video autoplay muted loop controls playsinline preload="metadata" poster="birth-poster.jpg">
   <source src="Birth.mp4" type="video/mp4">
 </video>
