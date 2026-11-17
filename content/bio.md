@@ -11,8 +11,8 @@ His work on the toy platform [toio](https://toio.io) has earned him various desi
 
 ## Exhibitions (selected)
 
-- DeLaurentis Immersive, Paris (2026)
-- CODE+MATTER, Paris (2025)
+- [DeLaurentis Immersive](https://origine.cite-sciences.fr/fr/au-programme/evenements/de-laurentis-immersive), Paris (2026)
+- [CODE+MATTER](https://codeplusmatter.com/artists/alexis-andre), Paris (2025)
 - Frames, Civic Canvas Gallery, Shibuya, Tokyo (2025)
 - POEMS IN CODE, CCBT x Yebisu Film Festival (2024)
 - Bright Moments, Venice (2024)

@@ -45,9 +45,6 @@ The color of the cube represents the energy of the cuts in the algorithm. Colder
 
 The collection consists of five different pieces, all results of the same generative algorithm.
 
-
-
-
 <div class="image-row">
 {{ <art_image
     file="DeLaDiscorde1.png"
