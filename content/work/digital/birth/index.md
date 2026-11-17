@@ -1,5 +1,5 @@
 +++
-title = "Birth"
+title = "Birth - Gucci"
 weight = 3
 
 [extra]
